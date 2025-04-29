@@ -147,7 +147,7 @@ Flexboxy mohou být vnořené do sebe, klidně několikrát.
 	}
 
 	.recepty .recept:nth-child(2n) {
-		border-left: 3px solid white;
+		border-left: 1px solid white;
 	}
 
 	.bottomText {
